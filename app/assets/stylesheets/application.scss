@@ -16,3 +16,13 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+input.is-invalid {
+  border-color: red;
+  color: red;
+}
+
+.invalid-feedback {
+  color: red;
+}
+
